@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liangjingjin.github.io/blog</id>
-    <title>杨晶晶的个人网站 Blog</title>
+    <title>LWeb Private Site Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liangjingjin.github.io/blog"/>
-    <subtitle>杨晶晶的个人网站 Blog</subtitle>
+    <subtitle>LWeb Private Site Blog</subtitle>
     <icon>https://liangjingjin.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
